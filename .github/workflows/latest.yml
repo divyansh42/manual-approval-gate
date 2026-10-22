@@ -1,6 +1,6 @@
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ main, release-v0.9.x ]
   push:
     branches: [ main ]
   schedule:
